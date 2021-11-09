@@ -10,8 +10,9 @@ December 2021:
 - finish all the MOOC UI Python course
 - start to build a personal website
 - upload 1st virtual walking (max. 31 December 2021)
-- being a minimal proper front-end developer
+- start regulary writing on personal website
 
 January 2022:
 - got my first job 👔
-- start regulary writing on personal website
+- being a minimal proper front-end developer
+
